@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Phillimore Place",
+    "picture": "images/0.jpg",
+    "years": 2017,
+    "type": "detached",
+    "location": "London W8"
+  },
+  {
+    "id": 1,
+    "name": "Roupell Street III",
+    "picture": "images/1.jpg",
+    "years": 2016,
+    "type": "semi-detached",
+    "location": "London SE1"
+  },
+  {
+    "id": 2,
+    "name": "Zealand Road",
+    "picture": "images/2.jpg",
+    "years": 2019,
+    "type": "semi-detached",
+    "location": "London E3"
+  },
+  {
+    "id": 3,
+    "name": "Expansive studio space",
+    "picture": "images/3.jpg",
+    "years": 2018,
+    "type": "penthouse",
+    "location": "London EC1"
+  },
+  {
+    "id": 3,
+    "name": "Clerkenwell Cooperage",
+    "picture": "images/4.jpg",
+    "years": 2009,
+    "type": "mansion",
+    "location": "London EC1"
+  },
+  {
+    "id": 5,
+    "name": "Pontifex Wharf",
+    "picture": "images/5.jpg",
+    "years": 2015,
+    "type": "panthouse",
+    "location": "London SE1"
+  },
+  {
+    "id": 6,
+    "name": "Lost House",
+    "picture": "images/6.jpg",
+    "years": 2016,
+    "type": "detached",
+    "location": "London N1"
+  },
+  {
+    "id": 7,
+    "name": "Shireburn Road",
+    "picture": "images/7.jpg",
+    "years": 2013,
+    "type": "mansion",
+    "location": "Formby, Merseyside"
+  },
+  {
+    "id": 8,
+    "name": "Kenmont Gardens",
+    "picture": "images/8.jpg",
+    "years": 2020,
+    "type": "mansion",
+    "location": "London NW10"
+  },
+  {
+    "id": 9,
+    "name": "Balcombe Street",
+    "picture": "images/9.jpg",
+    "years": 2014,
+    "type": "apartment",
+    "location": "London NW1"
+  },
+  {
+    "id": 10,
+    "name": "Strathearn Place",
+    "picture": "images/10.jpg",
+    "years": 2008,
+    "type": "apartment",
+    "location": "London W2"
+  },
+  {
+    "id": 11,
+    "name": "Upcerne Road",
+    "picture": "images/11.jpg",
+    "years": 2017,
+    "type": "semi-detached",
+    "location": "London SW10"
+  },
+  {
+    "id": 12,
+    "name": "Bermondsey Street",
+    "picture": "images/12.jpg",
+    "years": 2019,
+    "type": "semi-detached",
+    "location": "London SE1"
+  },
+  {
+    "id": 13,
+    "name": "Bowling Green Lane",
+    "picture": "images/13.jpg",
+    "years": 2015,
+    "type": "apartment",
+    "location": "London EC1"
+  },
+  {
+    "id": 14,
+    "name": "Halzephron House",
+    "picture": "images/14.jpg",
+    "years": 2019,
+    "type": "detached",
+    "location": "Lizard Peninsula, Cornwall"
+  },
+  {
+    "id": 15,
+    "name": "The Cyphers",
+    "picture": "images/15.jpg",
+    "years": 2014,
+    "type": "detached",
+    "location": "Alwoodley, Leeds"
+  }
+]
